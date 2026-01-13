@@ -1,0 +1,14 @@
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\bin\Debug\net8.0\OOPDemo.lession1.exe
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\bin\Debug\net8.0\OOPDemo.lession1.deps.json
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\bin\Debug\net8.0\OOPDemo.lession1.runtimeconfig.json
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\bin\Debug\net8.0\OOPDemo.lession1.dll
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\bin\Debug\net8.0\OOPDemo.lession1.pdb
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.AssemblyInfoInputs.cache
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.AssemblyInfo.cs
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.csproj.CoreCompileInputs.cache
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.dll
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\refint\OOPDemo.lession1.dll
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.pdb
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\OOPDemo.lession1.genruntimeconfig.cache
+E:\LeaningCSharp\OOPDemo\OOPDemo.lession1\obj\Debug\net8.0\ref\OOPDemo.lession1.dll
