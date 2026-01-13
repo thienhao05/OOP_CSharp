@@ -1,0 +1,14 @@
+E:\CSharp_Practice\Bai1c\Variable\bin\Debug\net8.0\Variable.exe
+E:\CSharp_Practice\Bai1c\Variable\bin\Debug\net8.0\Variable.deps.json
+E:\CSharp_Practice\Bai1c\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+E:\CSharp_Practice\Bai1c\Variable\bin\Debug\net8.0\Variable.dll
+E:\CSharp_Practice\Bai1c\Variable\bin\Debug\net8.0\Variable.pdb
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.dll
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\refint\Variable.dll
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.pdb
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+E:\CSharp_Practice\Bai1c\Variable\obj\Debug\net8.0\ref\Variable.dll
